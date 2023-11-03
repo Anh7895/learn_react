@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### dependentce
+1. ant
+npm install antd --save
+
+npm install @ant-design/icons --save
+import { GoogleOutlined } from '@ant-design/icons';
+
+tạo <GoogleOutlined/>
